@@ -1,7 +1,7 @@
 """
 Main file that provides:
     - launching game on selected level
-    - information whether player hit finish or got captured
+    - information whether player hit finish or get captured
 """
 
 from content.maze_game import maze_game
