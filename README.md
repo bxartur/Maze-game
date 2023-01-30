@@ -10,6 +10,7 @@ Project of maze game in Python, where player navigates from starting position to
 
 ## Example
 Maze shown below is thanks to randomness one of many possibilities, that can be received
+
 ![maze-example](https://user-images.githubusercontent.com/123515299/215509446-85b5bdd6-9ede-4a51-a06f-03429e660ef3.png)
 
 Game has 4 difficulty levels (easy, medium, hard, extreme), that change size of the maze, number of guards and number of treasures - maze shown above has difficulty level set on medium. Level easy has in addition solution path from start to exit, that is displayed on floor.
