@@ -1,5 +1,5 @@
 # Maze game
-Project of maze game, where player navigates from starting position to exit, through ramdomly generated maze, filled with guards and enemies.
+Project of maze game in Python, where player navigates from starting position to exit, through ramdomly generated maze, filled with guards and enemies.
 
 ## Content
 1. Function that generates random maze as matrix (list of lists)
